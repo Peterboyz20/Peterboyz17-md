@@ -1,4 +1,4 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> peterboyz17 Md </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
@@ -8,25 +8,25 @@
 
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+  <a href="https://youtube.com/@peterboyz17techinfo">
+    <img alt="peterboyz17-Md" height="400" src="/lib/assets/pk.jpg">
   </a>
 </p>
     
    
    
 <p align="center">
-   <a href="https://github.com/SuhailTechInfo/Suhail-Md/fork">
-    <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+   <a href="https://github.com/peterboyz17TechInfo/peterboyz17-Md/fork">
+    <img src="https://img.shields.io/github/forks/peterboyz17TechInfo/peterboyz17-Md?style=flat-square&logo=github&color=darkred">
    </a>
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md/stargazers"> 
-     <img src="https://img.shields.io/github/stars/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+  <a href="https://github.com/peterboyz17TechInfo/peterboyz17-Md/stargazers"> 
+     <img src="https://img.shields.io/github/stars/peterboyz17TechInfo/peterboyz17-Md?style=flat-square&logo=github&color=darkred">
  </a>
 
 
 
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="peterboyz17_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+    <img alt="peterboyz17TechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
@@ -34,10 +34,10 @@
 
 <p align="center">
 
- <a href="https://github.com/SuhailTechInfo">
- <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
-   <a href="https://github.com/SuhailTechInfo">
-    <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
+ <a href="https://github.com/peterboyz17TechInfo">
+ <img title="Owner" src="https://img.shields.io/badge/peterboyz17TechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
+   <a href="https://github.com/peterboyz17TechInfo">
+    <img src="https://img.shields.io/github/followers/peterboyz17TechInfo?style=flat-square&logo=github&color=darkred">
   </a>
   
 
